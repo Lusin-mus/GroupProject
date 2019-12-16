@@ -10,7 +10,7 @@ public class Main {
 	        max=array[i];
         }
     }
-	System.out.println(max);
+	System.out.println(max+" ");
     }
 }
 //I like it. Good job, Lusine!
@@ -18,3 +18,4 @@ public class Main {
 //My last comment
 //xxxxxxxxxxxxxxxxxx
 //I think we chould do it faster.
+
